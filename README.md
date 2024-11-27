@@ -1,0 +1,6 @@
+- 👋 Hi, I’m David Miller
+- 👀 I’m interested in systems thinking. 
+- 🌱 I’m currently learning full-stack software devleopment.
+- 💞️ I’m looking for a junior developer role.
+- 📫 Email: david321997@gmail.com
+- 🔗 LinkedIn 
